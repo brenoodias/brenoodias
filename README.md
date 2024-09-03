@@ -1,6 +1,6 @@
 ## Boas vindasao meu perfil 👋
 
-Meu nome é Breno Dias Pereira
+🫰🤞 Meu nome é Breno Dias Pereira
 
 . Estou estudando na Alura
 . Estou me desevolvendo na linguagem javaScript
